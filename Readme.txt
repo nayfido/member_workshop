@@ -1,1 +1,1 @@
-Git workshop version 2
+Git workshop version 2.1
